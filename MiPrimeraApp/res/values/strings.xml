@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi primera App</string>
+    <string name="app_name2">Segunda Actividad</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_close">Cerrar Aplicación</string>
+    <string name="action_google">Ir al Google</string>
+    <string name="action_github">Ir al GitHub</string>
+    <string name="action_linkedin">Ir al LinkedIn</string>
+    <string name="action_activitymain2">Iniciar segunda actividad</string>
+    <string name="MensajeBoton">InvertirPalabra</string>
+    <string name="enviar_formulario">Enviar Formulario</string>
+
+</resources>
